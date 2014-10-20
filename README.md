@@ -1,4 +1,4 @@
-jquery-toggle-attribute
+jquery-show-hide-password-text-and-more
 =======================
 
 jQuery plugin to toggle an attribute of an element given the change of another element.
